@@ -1,8 +1,8 @@
 {
-    "hostname": "my.dns.com",
-    "port": 8080,
+    "hostname": "ns358711.ovh.net",
+    "port": 88,
     "contextPath": "stalker_portal",
-    "mac": "00:1A:79:12:34:56",
+    "mac": "00:1A:79:4D:03:0B",
     "tvgIdPreFill": true,
     "computeUrlLink": true,
     "vodMaxPagePerGenre": 2,
